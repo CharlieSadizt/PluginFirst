@@ -1,0 +1,5 @@
+name: firstPlugin # Имя плагина
+main: ru.charliesadizt.firstplugin.Main # Путь к главному классу (тому, который наследует JavaPlugin)
+author: charlie_sadizt # Автор плагина
+version: 0.1 # Версия плагина
+description: yooo # Описание плагина
